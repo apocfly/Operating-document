@@ -28,7 +28,7 @@
 | Chrome等网络浏览器 | [www.apocfly.com](https://www.apocfly.com)                   |
 | 文档站             | [docs.apocfly.com](https://docs.apocfly.com)                 |
 | 模飞资源网盘       | [file.apocfly.com/apocfly](https://file.apocfly.com/apocfly) |
-| Github             | [github.com/Flyleague-Collection](https://github.com/Flyleague-Collection) |
+| Github             | [github.com/apocfly](https://github.com/apocfly) |
 
 
 
