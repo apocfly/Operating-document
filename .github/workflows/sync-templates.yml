@@ -30,7 +30,7 @@ jobs:
     - name: Sync templates from issue-templates repository
       run: |
         # 克隆模板仓库到临时目录
-        git clone https://github.com/Flyleague-Collection/issue-templates temp-templates
+        git clone https://github.com/apocfly/issue-templates temp-templates
         
         # 确保目标目录存在
         mkdir -p .github/ISSUE_TEMPLATE

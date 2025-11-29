@@ -90,7 +90,7 @@ pygments_lang_class = true
 
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
-link = "https://github.com/Flyleague-Collection/Operating-document"
+link = "https://github.com/apocfly/Operating-document"
 
 [[project.extra.social]]
 icon = "fontawesome/brands/bilibili"

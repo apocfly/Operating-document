@@ -1,6 +1,6 @@
 # SimpleFSD
 
-## [SimpleFSD github](https://github.com/Flyleague-Collection/SimpleFSD)
+## [SimpleFSD github](https://github.com/apocfly/SimpleFSD)
 
 ## SimpleFSD 文档站
 

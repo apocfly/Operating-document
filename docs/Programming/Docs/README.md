@@ -1,6 +1,6 @@
 # 运行文档 Operating-document
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=ffffff) ![BuildStateCard](https://img.shields.io/github/actions/workflow/status/Flyleague-Collection/Operating-document/ci.yml?style=for-the-badge&logo=github&label=build)  ![LastCommitCard](https://img.shields.io/github/last-commit/Flyleague-Collection/Operating-document?display_timestamp=committer&style=for-the-badge&logo=github)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=ffffff) ![BuildStateCard](https://img.shields.io/github/actions/workflow/status/apocfly/Operating-document/ci.yml?style=for-the-badge&logo=github&label=build)  ![LastCommitCard](https://img.shields.io/github/last-commit/apocfly/Operating-document?display_timestamp=committer&style=for-the-badge&logo=github)
 
 
 本项目是一个以Markdown语言以及[Zensical](https://zensical.org/)文档站(原[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)))组成的一个模拟飞行平台运营所集成的所有文档，这包括：
@@ -13,13 +13,13 @@
 
 # Roadmap
 
-您可以在我们的[github仓库项目](https://github.com/orgs/Flyleague-Collection/projects/2)中，查阅我们的发展路线
+您可以在我们的[github仓库项目](https://github.com/orgs/apocfly/projects/2)中，查阅我们的发展路线
 
 
 
 # 官方讨论渠道
 
-您可以前往我们的github仓库、[Discussions板块](https://github.com/Flyleague-Collection/Operating-document/discussions)与我们一同进行讨论，请务必遵守[社区行为准则](CODE_OF_CONDUCT.md)哦
+您可以前往我们的github仓库、[Discussions板块](https://github.com/apocfly/Operating-document/discussions)与我们一同进行讨论，请务必遵守[社区行为准则](CODE_OF_CONDUCT.md)哦
 
 
 
@@ -66,7 +66,7 @@ PyYAML             6.0.3
 
 2. 克隆本项目到本地
     ```shell
-    git clone https://github.com/Flyleague-Collection/Operating-document.git
+    git clone https://github.com/apocfly/Operating-document.git
     ```
 
 3. 创建虚拟环境  
@@ -149,7 +149,7 @@ PyYAML             6.0.3
 
 ## 贡献方式
 
-您可以将本项目进行 [fork](https://github.com/Flyleague-Collection/Operating-document/fork)，并查看 [#3](https://github.com/Flyleague-Collection/Operating-document/issues/3) 内的Todo list以查看需要完成的任务
+您可以将本项目进行 [fork](https://github.com/apocfly/Operating-document/fork)，并查看 [#3](https://github.com/apocfly/Operating-document/issues/3) 内的Todo list以查看需要完成的任务
 
 
 

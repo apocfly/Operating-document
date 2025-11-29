@@ -27,7 +27,7 @@ Swift Connected Flight Tutorial
 | ---- | ---------- | --------- | ------------------------------------------------------------ |
 | 0.1  | 2025.05.31 | 2352      | 第一版                                                       |
 | 1.0  | 2025.06.01 | 2352&5516 | 修改排版、增加部分内容                                       |
-| 2.0  | 2025.11.12 | 5516      | 增加Markdown版、将文字界面改为消息界面、修订已知错误([#12](https://github.com/Flyleague-Collection/Operating-document/issues/12)) |
+| 2.0  | 2025.11.12 | 5516      | 增加Markdown版、将文字界面改为消息界面、修订已知错误([#12](https://github.com/apocfly/Operating-document/issues/12)) |
 
 
 

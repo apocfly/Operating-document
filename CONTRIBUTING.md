@@ -35,7 +35,7 @@ zensical==0.0.9
 
 2. 克隆本项目到本地
    ```shell
-   git clone https://github.com/Flyleague-Collection/Operating-document.git
+   git clone https://github.com/apocfly/Operating-document.git
    ```
 
 3. 创建虚拟环境 
@@ -123,13 +123,13 @@ Document - 文档，存放上述Markdown文件的docs、pdf格式文件
 
 ###  讨论(Discussions)
 
-[仓库讨论专栏](https://github.com/Flyleague-Collection/Operating-document/discussions)，您可以在此进行一些讨论、请教，我们会第一时间进行回复。
+[仓库讨论专栏](https://github.com/apocfly/Operating-document/discussions)，您可以在此进行一些讨论、请教，我们会第一时间进行回复。
 
 ![Discussions](./assets/discussions.png)
 
 ### 议题(Issues)
 
-[议题专栏](https://github.com/Flyleague-Collection/Operating-document/issues/new/choose)，您可以在此对仓库提供一些有建设性的建议，例如：
+[议题专栏](https://github.com/apocfly/Operating-document/issues/new/choose)，您可以在此对仓库提供一些有建设性的建议，例如：
 
 - Bug 报告：汇报文档中存在的错误、失效链接或技术问题
 - 文档改进：帮助完善现有文档内容，提升文档质量
@@ -140,7 +140,7 @@ Document - 文档，存放上述Markdown文件的docs、pdf格式文件
 
 ### 发展路线图(Roadmap)
 
-[项目专栏](https://github.com/orgs/Flyleague-Collection/projects/2)，您可以再次查阅我们的[Issues](#)完成情况，及我们下一步的发展路线
+[项目专栏](https://github.com/orgs/apocfly/projects/2)，您可以再次查阅我们的[Issues](#)完成情况，及我们下一步的发展路线
 
 ![Projects](./assets/projects.png)
 

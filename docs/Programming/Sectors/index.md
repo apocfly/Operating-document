@@ -3,13 +3,13 @@
 
 China-Mainland-sector开源扇区项目致力于提供免费、开源的 Euroscope 扇区以帮助来自世界各地的模拟管制爱好者获得更好的模拟飞行体验。
 
-如果您在使用扇区的过程中遇到了任何问题、或者有任何好的建议，欢迎在 ``[Issues](https://github.com/Flyleague-Collection/China-Mainland-Sector/issues/new/choose)`` 页向我们提出！
+如果您在使用扇区的过程中遇到了任何问题、或者有任何好的建议，欢迎在 ``[Issues](https://github.com/apocfly/China-Mainland-Sector/issues/new/choose)`` 页向我们提出！
 
 如果您喜欢本扇区，欢迎您给扇区点点``Star``, 或者在下方赞赏我们，您的支持是我们更新的动力！
 
 ------
 
-本扇区虽名为China-Mainland-sector开源扇区，但本质为AirAmaz-Sector的衍生物，按照[GPL-3.0 许可证](https://github.com/Flyleague-Collection/China-Mainland-Sector/blob/main/LICENSE)进行开源处理。
+本扇区虽名为China-Mainland-sector开源扇区，但本质为AirAmaz-Sector的衍生物，按照[GPL-3.0 许可证](https://github.com/apocfly/China-Mainland-Sector/blob/main/LICENSE)进行开源处理。
 
 ------
 
@@ -74,7 +74,7 @@ China-Mainland-sector开源扇区项目致力于提供免费、开源的 Eurosco
 
 ### 更新日志
 
-按照[GPL-3.0 许可证](https://github.com/Flyleague-Collection/China-Mainland-Sector/blob/main/LICENSE)要求，我们已经将更新日志将会记录在[CHANGELOG.md](https://github.com/Flyleague-Collection/China-Mainland-Sector/blob/main/CHANGELOG.md)上面
+按照[GPL-3.0 许可证](https://github.com/apocfly/China-Mainland-Sector/blob/main/LICENSE)要求，我们已经将更新日志将会记录在[CHANGELOG.md](https://github.com/apocfly/China-Mainland-Sector/blob/main/CHANGELOG.md)上面
 
 文章开头的注释由于本人在制作时没有及时察觉此问题，我们将在近期进行补全
 
