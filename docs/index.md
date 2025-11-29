@@ -10,7 +10,7 @@
 
 ![Logo](./assets/Logo_25.png) **欢迎来到 Operating-document 文档站！**
 
-本项目是一个以Markdown语言以及[Zensical](https://zensical.org/)文档站(原[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)))组成的一个模拟飞行平台运营所集成的所有文档，这包括：
+本项目是一个以Markdown语言以及[Zensical](https://zensical.org/)文档站(原[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/))组成的一个模拟飞行平台运营所集成的所有文档，这包括：
 
 - 行为准则
 - 管制员考核大纲
