@@ -15,6 +15,7 @@
 - [Metar报文解读](./References/国际气象报文解码.pdf)
 - [eAIP航图解读](./References/航图识读.pdf)
 - [RVSM飞行高度层](./RVSM_flight_level.md)
+- [气压基准与TL、TA、TH及高度表拨正](./TL_TA_TH.md)
 - [飞行情报区](./FIR.md)
 - [空域](./Airspace.md)
 - [班机航路的查询教程](./Airlines_flight_route.md)

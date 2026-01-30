@@ -65,7 +65,7 @@ Query and use of flight routes by airlines
 - A、B、G、R，表示国际（地区）航路航线
 - L、M、N、P，表示国际（地区）区域导航航路
 - W，表示不涉及周边国家或地区的对外开放航路航线（含 进离场航线）
-- Y，表示不涉及周边国家或地区的对外开放区域导航航路 V 表示对外开放临时航线
+- Y，表示不涉及周边国家或地区的对外开放区域导航航路V表示对外开放临时航线
 
 ### 非公开航路
 
@@ -91,6 +91,18 @@ Query and use of flight routes by airlines
 [ERROR] ZSSS POMOK G330 PIMOL V14 NOBEM W73 MADUK W51 LEGIV W164 ADGOL W50 XSH W80 IDGAG A581 QNX W136 XISLI ZPPP
 -----------> POMOK G330 PIMOL V14 NOBEM W73 MADUK W51 LEGIV W164 ADGOL W50 XSH W80 IDGAG A581 QNX W136 XISLI <---
 ```
+
+
+
+## ★ 为什么航路中通常第一个点和最后一个点不是进离场点？
+
+这是为了防止终端区没法及时给出进离场程序，从而导致不可控的风险。
+
+其次，许多小飞机的航路中只能输入高级航路点，而进场点是一个低级航路点。因此，将航路第一最后一个点延伸。
+
+而程序中通常包含这个点或选择程序后，飞机有能力进行去重工作。
+
+飞行员提交的计划应是包含此的。但，我们的EuroScope雷达会将其自动去除。因此，提不提交也无关紧要的。
 
 
 
