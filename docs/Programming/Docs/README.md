@@ -1,6 +1,6 @@
 # 运行文档 Operating-document
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=ffffff) ![BuildStateCard](https://img.shields.io/github/actions/workflow/status/apocfly/Operating-document/ci.yml?style=for-the-badge&logo=github&label=build)  ![LastCommitCard](https://img.shields.io/github/last-commit/apocfly/Operating-document?display_timestamp=committer&style=for-the-badge&logo=github)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=ffffff) ![BuildStateCard](https://img.shields.io/github/actions/workflow/status/apocfly/Operating-document/ci.yml?style=for-the-badge&logo=github&label=build)  ![LastCommitCard](https://img.shields.io/github/last-commit/apocfly/Operating-document?display_timestamp=committer&style=for-the-badge&logo=github)
 
 
 本项目是一个以Markdown语言以及[Zensical](https://zensical.org/)文档站(原[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)))组成的一个模拟飞行平台运营所集成的所有文档，这包括：
