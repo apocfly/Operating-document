@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'EuroScope'; /* 1. 自定义字体名称 */
-  src: url('./fonts/EuroScope.woff2') format('woff2'), /* 2. 字体路径 */
+  src: url('https://github.com/apocfly/Operating-document/raw/refs/heads/main/docs/stylesheets/fonts/EuroScope.woff2') format('woff2'), /* 2. 字体路径 */
        /*
        url('./fonts/EuroScope.ttf') format('truetype');
        */
@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'SarasaUiSC-Regular'; /* 1. 自定义字体名称 */
-  src: url('./fonts/SarasaUiSC-Regular.woff2') format('woff2'), /* 2. 字体路径 */
+  src: url('https://github.com/apocfly/Operating-document/raw/refs/heads/main/docs/stylesheets/fonts/SarasaUiSC-Regular.woff2') format('woff2'), /* 2. 字体路径 */
        /*
        url('./fonts/SarasaUiSC-Regular.ttf') format('truetype');
        */
@@ -19,6 +19,6 @@
 }
 
 :root {
-  --md-code-font: "EuroScope";
-  --md-text-font: "SarasaUiSC-Regular";
+  --md-code-font: EuroScope, 'EuroScope', JetBrains Mono, 'JetBrains Mono';
+  --md-text-font: SarasaUiSC-Regular, 'SarasaUiSC-Regular';
 }

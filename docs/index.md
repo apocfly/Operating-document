@@ -1,6 +1,6 @@
 # 主页
 
-![background](./assets/background.png)
+![background](https://github.com/apocfly/Operating-document/raw/refs/heads/main/docs/assets/background.png)
 
 ## 项目简介
 
