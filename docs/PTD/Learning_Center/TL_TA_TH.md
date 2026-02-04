@@ -26,7 +26,8 @@ Pressure Datums and TL, TA, TH Altimeter Setting
 
 ### 单位
 
-大部分地区使用`百帕(hPa)`，有些国家（例如美国）用`英寸汞柱(inHg)`测量QNH,转换公式为1inHg=33.86hPa
+大部分地区使用`百帕(hPa)`，有些国家（例如美国）用`英寸汞柱(inHg)`测量QNH,转换公式为：
+`1[inHg]=33.86[hPa]`
 
 ### QNH
 

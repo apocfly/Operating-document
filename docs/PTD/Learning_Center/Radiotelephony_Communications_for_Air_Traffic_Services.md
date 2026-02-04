@@ -30,9 +30,9 @@ Radiotelephony Communications for Air Traffic Services
 
 ## 三、总则
 
-!!! Note
+!!! Note "注意了解"
     
-    注：
+    
     
     1. 本手册用语中带*号部分为航空器驾驶员或车辆驾驶员使用的语言。
     2. 本手册用语通话结构中“…”内的内容不可改动。
@@ -86,9 +86,9 @@ Radiotelephony Communications for Air Traffic Services
 
 
 
-!!! Note
+!!! Note "注意了解"
 
-	注：航空器驾驶员应以完整呼号终止复诵。
+	航空器驾驶员应以完整呼号终止复诵。
 	
 	例：ATC: CCA1234，雷达看到；PILOT: CCA1234.
 
@@ -211,6 +211,12 @@ Radiotelephony Communications for Air Traffic Services
 
 英语读法：“MACH NUMBER POINT” + XX、“MACH NUMBER” + X + “POINT” + XX。
 
+!!! info "相关链接"
+
+	根据《民用航空空中交通管理规则》第一百六十四条有关规定：“在 7500 米以上的高度层调整水平速度时，应当以 0.01 马赫数的倍数表示。在 7500 米（含）以下的高度层调整水平速度时，应当根据指示空速以 20 公里/小时或者 10 海里/小时的倍数表示。当不再要求水平速度限制时，管制员应当及时通知航空器驾驶员。”
+	
+	因此，应当在7500米（不含）以上使用马赫数，在7500米（含）及以下使用表数（指示空速）。
+
 
 
 ### 字母的读法
@@ -252,10 +258,10 @@ Radiotelephony Communications for Air Traffic Services
 
 英语读法：LKO，读作：LIMA KILO OSCAR（逐一读出字母）
 
-!!! Note
+!!! Note "注意了解"
 
 
-	注：在进离程序中，VOR和NDB也使用如上读法，例如：VYK-01A（大王庄洞幺ALPHA、VYK-ZE-RO WUN ALPHA）
+	在进离程序中，VOR和NDB也使用如上读法，例如：VYK-01A（大王庄洞幺ALPHA、VYK-ZE-RO WUN ALPHA）
 
 
 
@@ -320,9 +326,9 @@ A320，读作：A-320；
 
 B738，读作：B738 或 B737 - 800。
 
-!!! Note
+!!! Note "注意了解" "注意了解"
 	
-	注：“-”在航空领域通常读作“减”，而并非“杠”。
+	“-”在航空领域通常读作“减”，而并非“杠”。
 
 
 
@@ -336,9 +342,9 @@ B738，读作：B738 或 B737 - 800。
 
 航空器驾驶员驾驶着塞斯纳飞机制造商，注册号为：G-ABCD时，有以下两种方式：
 
-!!! Note
+!!! Note "注意了解"
 	
-	注：飞机制造商的名称可读可不读，下同。
+	飞机制造商的名称可读可不读，下同。
 
 - 第一种
 
@@ -353,9 +359,9 @@ B738，读作：B738 或 B737 - 800。
 
 	- 航空器注册号的第一个字母加至少最后2个字母：C G-CD，读作：[塞斯纳（Cessna）] GOLF CHARLIE DELTA
 
-!!! Note
+!!! Note "注意了解"
 	
-	注：只有管制单位缩减了呼号后，航空器才可使用缩减后的呼号。
+	只有管制单位缩减了呼号后，航空器才可使用缩减后的呼号。
 
 
 
@@ -376,9 +382,9 @@ B738，读作：B738 或 B737 - 800。
 
   - 航空器经营人的无线电呼号+航空器的注册号中和至少最后两个字母：CCA CD，读作：国际/国航（Air China）CHARLIE DELTA
 
-!!! Note
+!!! Note "注意了解"
 	
-	注：采用飞机航班号的读法无省略。
+	采用飞机航班号的读法无省略。
 
 ###### 重型飞机和超大型飞机呼号读法
 
@@ -438,10 +444,10 @@ B738，读作：B738 或 B737 - 800。
 | 清楚（4） Readable                               | 四个     | FOW-er   |
 | 非常清晰（5） Perfectly readable                 | 五个     | FIFE     |
 
-!!! Note
+!!! Note "注意了解"
 	
 
-	注：此表应是每一位飞行员、管制员需记忆的内容
+	此表应是每一位飞行员、管制员需记忆的内容
 
 ##### 移交及转换频率
 
@@ -499,9 +505,9 @@ B738，读作：B738 或 B737 - 800。
 (ZSPD-ZBAA-01)  POMOK G330 PIMOL A593 DALIM W157 AVBOX
 ```
 
-!!! Note
+!!! Note "注意了解"
 
-    注：如果您不知道如何查询航路，可以[点此](./Airlines_flight_route.md)查阅教程。
+    如果您不知道如何查询航路，可以[点此](./Airlines_flight_route.md)查阅教程。
 
 #### 放行(DEL)
 
@@ -509,7 +515,7 @@ B738，读作：B738 或 B737 - 800。
 
 !!! Notse
 
-    注：机坪席位（即RMP/A_GND，例如ZSPD_RMP/ZSPD_A_GND）不提供放行服务；
+    机坪席位（即RMP/A_GND，例如ZSPD_RMP/ZSPD_A_GND）不提供放行服务；
 
 ---
 
@@ -955,13 +961,11 @@ P: 自行滑行至机位107号，关车报，东方5155。
 
 > Taxi to gate 107 by my own choice, report engine shutdown, CES5155.
 
-!!! Note
-	
-	注：
+!!! Note "注意了解"
 	
 	在地面不繁忙的情况下，可让机组自己进行滑行。
 	
-	此部分内容格式与先前起飞的滑行一致，这里不再赘述。
+	此部分内容格式与先前[起飞的滑行](#_38)一致，这里不再赘述。
 
 
 
@@ -971,10 +975,10 @@ P: 自行滑行至机位107号，关车报，东方5155。
 
 
 
-
-
 ## 参考资料
 
 [1] [CAAC.空中交通无线电通话用语（第四次征求意见版V79）](./References/空中交通无线电通话用语（第四次征求意见版V79）.pdf)
 
 [2] [CAAC.MH/T 4014-2003.空中交通无线电通话用语](https://www.caac.gov.cn/XXGK/XXGK/BZGF/HYBZ/201511/P020170804579259214829.pdf)
+
+[3] [CAAC.CCAR-93TM-R6.民用航空空中交通管理规则](http://www.caac.gov.cn/XXGK/XXGK/MHGZ/202303/P020250811508100344431.pdf)

@@ -56,17 +56,29 @@ Loa主要用于中国大陆与港、澳、台及国际地区移交机组使用�
 
 ## 安装插件
 
-EuroScope软件在连接至APOCFLY网络前，必须前往：[网盘下载](https://file.apocfly.com/d/apocfly/EuroScope/Plugins/EuroScopeInjector.dll?sign=SMW3cOk_5khRwL3XAVMxbKkZsjfHhjHISt0G0YR69gU=:0) 或 空管中心QQ群内进行插件下载。
+EuroScope软件在连接至APOCFLY网络前，必须前往：[网盘下载](https://file.apocfly.com/EuroScope/Plugins) 或 空管中心QQ群内进行插件下载。
 
 部分扇区，例如: [China-Mainland-Sector](https://github.com/Master-Gui-Studio/China-Mainland-Sector)等扇区，已内置此插件，您可能仅需要动动配置文件或不用动任何事即可。
 
-下载完成后，将选择 `EuroScopeInjector.dll` 其放在在任何位置（只要你能找到的）
+下载完成后，将选择 `EuroScopeInjector.dll` 、 `RDFPlugin.dll` 其放在在任何位置（只要你能找到的）
+
+下面以 RDFPlugin.dll 为例
+
+![Plug-ins Dialog](./assets/Snipaste_2026-02-03_16-00-45.png)
+
+![Select EuroScope Plugin](./assets/Snipaste_2026-02-03_16-01-51.png)
+
+![Plug-ins Dialog](https://github.com/KingfuChan/MTEPlugin-for-EuroScope/wiki/images/allow_draw.jpg)
 
 打开扇区 -> Other setting -> Plug-ins -> Load -> 选择EuroScopeInjector.dll -> Close
 
+[//]: # (图片来自https://github.com/KingfuChan/MTEPlugin-for-EuroScope/wiki/Altitudes))
+
 !!! Note "注意了解"
 
-	由于 [EuroScopeInjector.dll](https://file.apocfly.com/d/apocfly/EuroScope/Plugins/EuroScopeInjector.dll?sign=SMW3cOk_5khRwL3XAVMxbKkZsjfHhjHISt0G0YR69gU=:0) 暂时不集成 [Radio Direction Finder](https://github.com/KingfuChan/MTEPlugin-for-EuroScope) 功能，不需要给予插件绘制权限。
+	由于 EuroScopeInjector.dll 暂时不集成 RDF 功能，不需要给予插件绘制权限。
+	
+	而，RDFPlugin.dll 
 
 ## 连接至服务器
 
