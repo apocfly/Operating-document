@@ -12,7 +12,7 @@ Contribution Guidelines
 
 | Package  | Version |
 | -------- |---------|
-| zensical | 0.0.19  |
+| zensical | 0.0.20  |
 | pymdown-extensions | 10.20.1 |
 
 #### 依赖库
@@ -33,7 +33,7 @@ mkdocs-get-deps==0.2.0
 mkdocstrings==1.0.2
 mkdocstrings-python==2.0.1
 packaging==26.0
-pathspec==1.0.3
+pathspec==1.0.4
 platformdirs==4.5.1
 Pygments==2.19.2
 python-dateutil==2.9.0.post0
