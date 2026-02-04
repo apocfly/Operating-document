@@ -116,7 +116,7 @@ AIG映射包下载后需要手动解压到MSFS的community目录下，注意不�
 
 [swift官方关于X-Plane机模映射的文档](https://swift-project.org/home/models/xplane/)
 
-您可以使用官方文档中提到的X-CSL作为X-Plane的映射包，这里是X-CSL的官网：https://x-csl.ru/downloads
+您可以使用官方文档中提到的X-CSL作为X-Plane的映射包，这里是X-CSL的官网：[https://x-csl.ru/downloads](https://x-csl.ru/downloads)
 
 按照X-CSL官网提供的步骤进行下载安装即可
 

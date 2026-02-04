@@ -103,8 +103,9 @@ nav = [
     { "飞行员训练部" = [
 #        "PTD/index.md",
         {"飞行员训练部·学习中心" = [
-            "PTD/Learning_Center/index.md",
+#            "PTD/Learning_Center/index.md",
             {"Swift 连飞教程" = "PTD/Learning_Center/Swift_Connected_Flight_Tutorial.md"},
+            {"Cpilot 连飞教程" = "PTD/Learning_Center/Cpilot_Tutorial.md"},
             {"TeamSpeak 3 使用教程" = "PTD/Learning_Center/TeamSpeak_Tutorial.md"},
             {"陆空对话（空中交通无线电通话用语）" = "PTD/Learning_Center/Radiotelephony_Communications_for_Air_Traffic_Services.md"},
             {"Metar报文解读" = "PTD/Learning_Center/References/%E5%9B%BD%E9%99%85%E6%B0%94%E8%B1%A1%E6%8A%A5%E6%96%87%E8%A7%A3%E7%A0%81.pdf"},
