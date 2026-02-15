@@ -232,7 +232,7 @@ Radiotelephony Communications for Air Traffic Services
 | G    | Golf     |
 | H    | Hotel    |
 | I    | India    |
-| J    | Juliett  |
+| J    | Juliet   |
 | K    | Kilo     |
 | L    | Lima     |
 | M    | Mike     |
@@ -268,7 +268,7 @@ Radiotelephony Communications for Air Traffic Services
 
 #### 航点的读法
 
-汉语&英语读法：ANDIN，读作：ANDIN（自然拼读法）。
+汉语&英语读法：ANDIN，读作：AND-IN（自然拼读法）。
 
 汉语&英语读法：P23，读作：PEE 23（TOO TREE）。
 
@@ -373,14 +373,14 @@ B738，读作：B738 或 B737 - 800。
 
 - 第一种
 
-  - 航空器驾驶员经营的无线电呼号+飞机后四位注册号：CCA ABCD，读作：国际/国航（Air China）ALPHA BRAVO CHARLIE DELTA
-  - 航空器驾驶员经营的无线电呼号+飞机航班号：CCA 1234，读作：国际/国航（Air China）ONE TWO THREE FOUR
+	- 航空器驾驶员经营的无线电呼号+飞机后四位注册号：CCA ABCD，读作：国际/国航（Air China）ALPHA BRAVO CHARLIE DELTA
+	- 航空器驾驶员经营的无线电呼号+飞机航班号：CCA 1234，读作：国际/国航（Air China）ONE TWO THREE FOUR
 
 - 第二种
 
-  上同，在建立满意的双向稳定通讯后，可适当缩减
+	上同，在建立满意的双向稳定通讯后，可适当缩减
 
-  - 航空器经营人的无线电呼号+航空器的注册号中和至少最后两个字母：CCA CD，读作：国际/国航（Air China）CHARLIE DELTA
+	- 航空器经营人的无线电呼号+航空器的注册号中和至少最后两个字母：CCA CD，读作：国际/国航（Air China）CHARLIE DELTA
 
 !!! Note "注意了解"
 	
@@ -531,7 +531,7 @@ A: 东方5155，放行(排)第一个，稍等
 
 A: 东方5155，浦东放行，可以沿飞行计划航路放行到北京首都，[通播A有效]，沿PIKAS-95D（PIK95D）（标准程序）离场，使用跑道35R，[巡航高度层10400m(FL341)]，起始高度900米，[(终端区)修正海压1013（ATIS存在后，可不念）]，应答机5033，离地后联系进近126.650。
 
-> CES5155, Pudong Delivery, cleared to Beijing Capital via flight planned route, [information Alpha is available], (follow) PIKAS-95D departure, runway in use 35R, [cruising level 10,400m], initial climb to 900m [on (terminal) QNH1013], squawk 5033, departure frequency 126.650.
+> CES5155, Pudong Delivery, cleared to Beijing Capital via flight planned route, [information Alpha is available], (follow) PIKAS-95D departure, runway (in use) 35R, [cruising level 10,400m], initial altitude to 900m [on (terminal) QNH1013], squawk 5033, departure frequency 126.650.
 
 P: 可以沿飞行计划航路放行到北京首都，沿PIKAS-95D（PIK95D）（标准程序）离场，使用跑道35R，[巡航高度层10400m(FL341)]，起始高度900米，[(终端区)修正海压1013（ATIS存在后，可不念）]，应答机5033，离地后联系进近126.650，东方5155。
 
@@ -863,7 +863,9 @@ P: 联系北京进近120.600，东方5155。
 
 ##### 进场
 
+```
 METAR ZBAA 301400Z 18002MPS 150V210 CAVOK M02/M08 Q1029 NOSIG 
+```
 
 P: 北京进近，东方5155，当前在AVBOX，保持5400，（通播A）。
 
