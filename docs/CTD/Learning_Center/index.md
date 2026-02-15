@@ -24,10 +24,12 @@
 - [飞行情报区](../../PTD/Learning_Center/FIR/)
 - [空域](../../PTD/Learning_Center/Airspace/)
 - [班机航路的查询教程](../../PTD/Learning_Center/Airlines_flight_route/)
+- [航空器分类](../../PTD/Learning_Center/Aircraft_type/)
+- [航空器尾流间隔](./Wake_turbulence_separation_minima.md)
 - [应答机分配](./Squawk.md)
 - [平行或近似平行跑道运行模式](./Parallel_runway_operations.md)
 - [PBN进离场](http://www.caac.gov.cn/XXGK/XXGK/ZCJD/202505/P020250515551921206047.pdf)
-- [航空器尾流间隔标准](./Wake_turbulence_separation_minima.md)
+- [EuroScope 使用教程](./References/Flyatcsim%20EuroScope扇区使用教程%20v1.2.pdf)
 
 
 程序管制：

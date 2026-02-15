@@ -115,7 +115,8 @@ nav = [
             {"飞行情报区" = "PTD/Learning_Center/FIR.md"},
             {"空域" = "PTD/Learning_Center/Airspace.md"},
             {"PBN进离场" = "http://www.caac.gov.cn/XXGK/XXGK/ZCJD/202505/P020250515551921206047.pdf"},
-            {"班机航路的查询教程" = "PTD/Learning_Center/Airlines_flight_route.md"}
+            {"班机航路的查询教程" = "PTD/Learning_Center/Airlines_flight_route.md"},
+            {"航空器分类" = "PTD/Learning_Center/Aircraft_type.md"}
         ]}
     ]},
     {"标准运行程序·SOP" = [
