@@ -28,8 +28,8 @@ Tutorial-Contents
 
 - [Swift 连线飞行教程](./PTD/Learning_Center/Swift_Connected_Flight_Tutorial.md)
 - [Cpilot 连线飞行教程](./PTD/Learning_Center/Cpilot_Tutorial.md)
-- [TeamSpeak 3 使用教程](./PTD/Learning_Center/TeamSpeak_Tutorial.md)
 - [班机航路的查询教程](./PTD/Learning_Center/Airlines_flight_route.md)
+- [飞行计划提交教程](./PTD/Learning_Center/Flightplan_submit.md)
 - [陆空对话](./PTD/Learning_Center/Radiotelephony_Communications_for_Air_Traffic_Services.md)
 - [Metar报文解读](./PTD/Learning_Center/References/国际气象报文解码.pdf)
 - [eAIP航图解读](./PTD/Learning_Center/References/航图识读.pdf)

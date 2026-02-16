@@ -106,7 +106,8 @@ nav = [
 #            "PTD/Learning_Center/index.md",
             {"Swift 连飞教程" = "PTD/Learning_Center/Swift_Connected_Flight_Tutorial.md"},
             {"Cpilot 连飞教程" = "PTD/Learning_Center/Cpilot_Tutorial.md"},
-            {"TeamSpeak 3 使用教程" = "PTD/Learning_Center/TeamSpeak_Tutorial.md"},
+            {"飞行计划提交教程" = "PTD/Learning_Center/Flightplan_submit.md"},
+            {"班机航路的查询教程" = "PTD/Learning_Center/Airlines_flight_route.md"},
             {"陆空对话（空中交通无线电通话用语）" = "PTD/Learning_Center/Radiotelephony_Communications_for_Air_Traffic_Services.md"},
             {"Metar报文解读" = "PTD/Learning_Center/References/%E5%9B%BD%E9%99%85%E6%B0%94%E8%B1%A1%E6%8A%A5%E6%96%87%E8%A7%A3%E7%A0%81.pdf"},
             {"eAIP航图解读" = "PTD/Learning_Center/References/%E8%88%AA%E5%9B%BE%E8%AF%86%E8%AF%BB.pdf"},
@@ -115,7 +116,6 @@ nav = [
             {"飞行情报区" = "PTD/Learning_Center/FIR.md"},
             {"空域" = "PTD/Learning_Center/Airspace.md"},
             {"PBN进离场" = "http://www.caac.gov.cn/XXGK/XXGK/ZCJD/202505/P020250515551921206047.pdf"},
-            {"班机航路的查询教程" = "PTD/Learning_Center/Airlines_flight_route.md"},
             {"航空器分类" = "PTD/Learning_Center/Aircraft_type.md"}
         ]}
     ]},
