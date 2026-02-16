@@ -147,7 +147,9 @@ Wake turbulence separation minima
 
 
 
-### 雷达尾流间隔标准
+### 雷达尾流间隔标准示意图
+
+单位：km
 
 ![](./assets/Snipaste_2026-02-16_00-42-53.png)
 
@@ -155,7 +157,7 @@ Wake turbulence separation minima
 
 ### 非雷达尾流间隔标准
 
-（待补充）
+RECAT-CN，仅使用于
 
 
 

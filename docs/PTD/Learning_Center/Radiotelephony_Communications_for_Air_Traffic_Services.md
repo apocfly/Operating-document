@@ -521,25 +521,41 @@ B738，读作：B738 或 B737 - 800。
 
 ##### 放行
 
-P: 浦东放行，上午好，东方5155，停机位114，通播Alpha抄收，申请放行至北京首都。
+P: 浦东放行，东方5155，停机位114，通播Alpha抄收，申请放行至北京首都。
 
-> Pudong Delivery, good morning, China Eastern 5155, Gate/Stand 114, with information Alpha, request IFR clearance to Beijing Capital.
+> Pudong Delivery, China Eastern 5155, Gate 114, with information Alpha, request IFR clearance to Beijing Capital.
+
+!!! Note "注意了解"
+
+	Gate指：廊桥；而，Stand指：远机位。
 
 A: 东方5155，放行(排)第一个，稍等
 
-> CES5155, Your are number one, please STBY(STAND BY).
+> CES5155, You are number one, please Stand by(STBY).
 
-A: 东方5155，浦东放行，可以沿飞行计划航路放行到北京首都，[通播A有效]，沿PIKAS-95D（PIK95D）（标准程序）离场，使用跑道35R，[巡航高度层10400m(FL341)]，起始高度900米，[(终端区)修正海压1013（ATIS存在后，可不念）]，应答机5033，离地后联系进近126.650。
+A: 东方5155，浦东放行。
 
-> CES5155, Pudong Delivery, cleared to Beijing Capital via flight planned route, [information Alpha is available], (follow) PIKAS-95D departure, runway (in use) 35R, [cruising level 10,400m], initial altitude to 900m [on (terminal) QNH1013], squawk 5033, departure frequency 126.650.
+> CES5155, Pudong Delivery.
+
+P: 请讲，东方5155。
+
+> Go ahead, CES5155.
+
+A: 东方5155，浦东放行，可以沿飞行计划航路放行到北京首都，[通播A有效]，沿PIKAS-95D（PIK95D）（标准程序）离场，使用跑道35R，巡航高度层10400m(FL341)，起始高度900米，[(终端区)修正海压1013（ATIS存在后，可不念）]，应答机5033，离地后联系进近126.650。
+
+> CES5155, Pudong Delivery, Cleared to Beijing Capital via flight planned route, [information Alpha is available], (follow) PIKAS-95D departure, Runway (in use) 35R, Cruising level 10,400m, Initial altitude 900m [on (Shanghai terminal) QNH1013], squawk 5033, departure frequency 126.650.
 
 P: 可以沿飞行计划航路放行到北京首都，沿PIKAS-95D（PIK95D）（标准程序）离场，使用跑道35R，[巡航高度层10400m(FL341)]，起始高度900米，[(终端区)修正海压1013（ATIS存在后，可不念）]，应答机5033，离地后联系进近126.650，东方5155。
 
-> Cleared to Beijing Capital via flight planned route, (follow) PIKAS-95D departure, runway in use 35R, [cruising level 10,400m], initial climb to 900m [on (terminal) QNH1013], squawk 5033, departure frequency 126.650, CES5155.
+> Cleared to Beijing Capital via flight planned route, (follow) PIKAS-95D departure, Eunway in use 35R, cruising level 10,400m, Initial altitude 900m [on (Shanghai terminal) QNH1013], Squawk 5033, Departure frequency 126.650, CES5155.
 
 A: 东方5155，复述正确，准备好报。
 
-> CES5155, readback correct, call/report when ready [for push(back) and start(up)].
+> CES5155, Readback correct, Call/report when ready [for push(back) and start(up)].
+
+P: 准备好报，东方5155。
+
+> Call when ready, CES5155.
 
 ---
 
@@ -547,7 +563,7 @@ A: 东方5155，复述正确，准备好报。
 
 A: 东方5155，不正确，应答机5033（假设应答机复述错误）。
 
-> CES5155, negative, squawk 5033.
+> CES5155, Negative, Squawk 5033.
 
 P: 应答机5033，东方5155。
 
@@ -561,7 +577,7 @@ P: 应答机5033，东方5155。
 
 !!! Warning
 
-	由于这部分内容，在@[Yiheng Gui(5516)](https://github.com/supermastergui)；制作时，未发现《上海浦东国际机场（ZSPD）标准运行程序》文件，导致滑行路线和SOP，**略有出入**，请勿在连线飞行中使用。
+	由于这部分内容，在@[Yiheng Gui(5516)](https://github.com/supermastergui)；制作时，未发现[《上海浦东国际机场（ZSPD）标准运行程序》](https://www.vatprc.net/zh-cn/docs/aerodromes/ZSPD)文件，导致滑行路线和SOP，**略有出入**，请勿在连线飞行中使用。
 
 P: 浦东放行，东方5155，准备好推出开车。
 
@@ -573,19 +589,19 @@ A: 东方5155，联系浦东地面121.700。
 
 P: 联系浦东地面121.700，再见，东方5155。
 
-> Contact Pudong Ground on 121.700, goodbay, CES5155.
+> Contact Pudong Ground on 121.700, goodbye, CES5155.
 
-P: 浦东地面，上午好，东方5155，停机位114，申请推出开车。
+P: 浦东地面，东方5155，停机位114，申请推出开车。
 
-> Pudong Ground, good morning, CES5155, Gate 114, request pushback and startup.
+> Pudong Ground, CES5155, Gate 114, request pushback and startup.
 
 A: 东方5155，同意推出开车，跑道35R，（头朝向南）。
 
-> CES5155, Pushback and startup approved, runway 35R, (face south).
+> CES5155, Pushback and startup approved, runway 35R, (facing south).
 
 P: 可以退出开车，跑道35R，（头朝向南），东方5155
 
-> Pushback and startup approved, runway 35R, (face south), CES5155.
+> Pushback and startup approved, runway 35R, (facing south), CES5155.
 
 
 !!! Note "推出开车示意图"
@@ -597,11 +613,11 @@ P: 可以退出开车，跑道35R，（头朝向南），东方5155
 
 ###### 有交通情况
 
-A: 东方5155，稍等推出，地面有交通，（挂好拖车报）。
+A: 东方5155，稍等推出，地面有交通。
 
-> CES5155, Stand by for pushback , ground traffic.
+> CES5155, Stand by for pushback due to the traffic.
 
-P: 稍等推出，（挂好拖车报），东方5155。
+P: 稍等推出，东方5155。
 
 > Stand by for pushback, CES5155.
 
@@ -625,7 +641,7 @@ P: 沿L02，L19。在B外等待, 东方5155。
 
 A: 东方5515，能否接受从B1，非全跑道离场，跑道35R，(可用起飞距离3780米)，是否接受？
 
-> CES5155, Advise able to depart from runway 35R, intersection B1, (take-off distance available 3780m).
+> CES5155, Advise able to depart from runway 35R, intersection B1, (take-off distance available[TODA] is 3780m).
 
 P: 接受，东方5515。
 
@@ -665,19 +681,21 @@ P: 塔台，东方5155，B1，35R外等。
 
 A: 东方5155，(目视前机A321离地后)，进跑道35R等待。
 
-> CES5155, (behind A321 airborn)，Line up (behind) and wait, runway 35R.
+> CES5155, (behind A321 airborne)，Line up (behind) and wait, runway 35R.
 
 P: 进跑道35R等待，(目视前机A321离地后)，东方5155。
 
-> Line up (behind) and wait, (behind A321 airborn), runway 35R, CES5155.
+> Line up (behind) and wait, (behind A321 airborne), runway 35R, CES5155.
 
 ---
 
+```
 METAR ZSPD 301200Z 19002MPS CAVOK 13/05 Q1017 NOSIG
+```
 
 A: 东方5155，地面风190，2米/秒，（修正海压1017），跑道35R，(B1可用起飞距离3780米)，可以起飞。
 
-> CES5155, Surface wind 190 degress, 2 meters per second, runway 35R, (intersection B1, take-off distance available 3780m), cleared for take-off.
+> CES5155, Surface wind 190 degrees, 2 meters per second, runway 35R, (intersection B1, take-off distance available 3780m), cleared for take-off.
 
 P: 跑道35R，可以起飞，东方5155。
 
